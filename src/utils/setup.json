@@ -1,0 +1,293 @@
+{
+    "name": "Cimanggis",
+    "zoom_default": 14,
+    "scrollable": true,
+    "middle": {
+        "lot": -6.371757409464329,
+        "lat": 106.87630973009735,
+        "cordinate": [
+            -6.371757409464329, 106.87630973009735
+        ]
+    },
+    "marks": [
+        {
+            "name": "Waroeng SKI",
+            "lot": -6.372191,
+            "lat": 106.853397,
+            "address": "Jalan Raya Pondok Duta No.151, Tugu, Kec. Cimanggis, Kota Depok, Jawa Barat",
+            "hour": "Rating: 4.6 out of 5.0",
+            "price": "IDR 16.000 - IDR 30.000",
+            "review": "Penikmat kopi & pastry wajib mencoba kopi disini. Kopinya strong & pastrynya enak. Cocok untuk kumpul-kumpul cantik dengan teman/keluarga",
+            "images": [
+                "/assets/images-coffee-shop/waroeng_ski/main_pict.jpg",
+                "/assets/images-coffee-shop/waroeng_ski/secondary_pict.jpg",
+                "/assets/images-coffee-shop/waroeng_ski/tertiary_pict.jpg"
+            ],
+            "menus": [
+                "/assets/images-coffee-shop/waroeng_ski/menus/menus_1.jpg",
+                "/assets/images-coffee-shop/waroeng_ski/menus/menus_2.jpg",
+                "/assets/images-coffee-shop/waroeng_ski/menus/menus_3.jpg"
+            ]
+
+        },
+        {
+            "name": "Tomoro Coffee",
+            "lot": -6.354177,
+            "lat": 106.836583,
+            "address": "Jl. Komjen. Pol. M. Jasin No.17, RW.6, Tugu, Kec.Cimanggis, Kota Depok, Jawa Barat",
+            "hour": "Rating: 5.0 out of 5.0",
+            "price": "IDR 25.000 - IDR 50.000",
+            "review": "lokasinya strategis dan menunya variatif, namun suasananya kurang mendukung untuk nongkrong",
+            "images": [
+                "/assets/images-coffee-shop/tomoro_coffee/main_pict.jpg",
+                "/assets/images-coffee-shop/tomoro_coffee/second_pict.jpg",
+                "/assets/images-coffee-shop/tomoro_coffee/tertiary_pict.jpg",
+                "/assets/images-coffee-shop/tomoro_coffee/oth_pict.jpg"
+            ],
+            "menus": [
+                "/assets/images-coffee-shop/tomoro_coffee/menus/menus_1.jpg"
+            ]
+
+        },
+        {
+            "name": "Toko Kopi Tuku",
+            "lot": -6.35406,
+            "lat": 106.838072,
+            "address": "Jl. Komjen.Pol.M.Jasin No.33, Tugu, Kec. Cimanggis, Kota Depok, Jawa Barat ",
+            "hour": "Rating: 4.7 out of 5.0",
+            "price": "IDR 10.000 - IDR 34.000",
+            "review": "Kopinya enak creamy tapi tetep berasa banget kopinya. Tempatnya juga oke tapi sayangnya tempat parkir agak sempit untuk mobil.",
+            "images": [
+                "/assets/images-coffee-shop/tuku/main_pict.jpg",
+                "/assets/images-coffee-shop/tuku/second_pict.jpg",
+                "/assets/images-coffee-shop/tuku/tertiary_pict.jpg",
+                "/assets/images-coffee-shop/tuku/oth_pict.jpg"
+            ],
+            "menus": [
+                "/assets/images-coffee-shop/tuku/menus/menus_1.jpg"
+            ]
+        },
+        {
+            "name": "Sakeca Cafe Coffee & Eatery",
+            "lot": -6.354639,
+            "lat": 106.846381,
+            "address": "Jl. Komjen.Pol.M.Jasin No.33, Tugu, Kec. Cimanggis, Kota Depok, Jawa Barat",
+            "hour": "Rating: 4.6 out of 5.0",
+            "price": "IDR 22.000 - IDR 28.000",
+            "review": "tempat yang nyaman untuk hangout, chill, cocok untuk work from cafe, tersedia banyak colokan, wifi, pemandangan yang asri dan makanan yang enak",
+            "images": [
+                "/assets/images-coffee-shop/sakeca_coffee/main_pict.jpg",
+                "/assets/images-coffee-shop/sakeca_coffee/second_pict.jpg",
+                "/assets/images-coffee-shop/sakeca_coffee/ter_pict.jpg",
+                "/assets/images-coffee-shop/sakeca_coffee/oth_pict.jpg",
+                "/assets/images-coffee-shop/sakeca_coffee/oth2_pict.jpg"
+            ],
+            "menus": [
+                "/assets/images-coffee-shop/sakeca_coffee/menus/menus_1.jpg"
+            ]
+        },
+        {
+            "name": "Rumah Teduh Coffee & Coworking Space",
+            "lot": -6.372362,
+            "lat": 106.847009,
+            "address": "Jl. Raya PD.Duta No.10, Tugu, Kec. Cimanggis, Kota Depok, Jawa Barat",
+            "hour": "Rating: 4.8 out of 5.0",
+            "price": "IDR 10.000 - IDR 26.000",
+            "review": "sangat teduh, nyaman, tenang, adem cocok buat rapat dan ngerjain tugas kampus, coffee dan cemilannya harganya standar",
+            "images": [
+                "/assets/images-coffee-shop/rumah_teduh/main_pict.jpg",
+                "/assets/images-coffee-shop/rumah_teduh/second_pict.jpg",
+                "/assets/images-coffee-shop/rumah_teduh/ter_pict.jpg"
+            ],
+            "menus": [
+                "/assets/images-coffee-shop/rumah_teduh/menus/menus_1.jpg",
+                "/assets/images-coffee-shop/rumah_teduh/menus/menus_2.jpg",
+                "/assets/images-coffee-shop/rumah_teduh/menus/menus_3.jpg"
+            ]
+        },
+        {
+            "name": "Nest Coffee",
+            "lot": -6.372555,
+            "lat": 106.845319,
+            "address": "Jl. Klp. Dua Raya Blok A No.18, Tugu, Kec. Cimanggis, Kota Depok, Jawa Barat",
+            "hour": "Rating: 4.7 out of 5.0",
+            "price": "IDR 8.000 - IDR 20.000",
+            "review": "coffeeshop yang berasa hometown. Strawberry Mojitonya nyegerin banget dan ada sensasi soda yang bikin meringis.",
+            "images": [
+                "/assets/images-coffee-shop/nest_coffee/main_pict.jpg",
+                "/assets/images-coffee-shop/nest_coffee/second_pict.jpg",
+                "/assets/images-coffee-shop/nest_coffee/ter_pict.jpg"
+            ],
+            "menus": [
+                "/assets/images-coffee-shop/nest_coffee/menus/menus_1.jpg"
+            ]
+        },
+        {
+            "name": "Kopi Kenangan",
+            "lot": -6.354994,
+            "lat": 106.841961,
+            "address": "Jl. Akses UI No.26, Tugu, Kec. Cimanggis, Kota Depok, Jawa Barat",
+            "hour": "Rating: 3.2 out of 5.0",
+            "price": "IDR 19.000 - IDR 38.000",
+            "review": "Kopi kenangan sangat enak dan cocok rasa dan harganya jempol, namun ada yang kurang sesuai untuk sekelas brand kopi yg cukup ternama di Depok dan area dekat kampus karena belum menyediakan toilet untuk konsumen",
+            "images": [
+                "/assets/images-coffee-shop/kopi_kenangan/main_pict.jpg",
+                "/assets/images-coffee-shop/kopi_kenangan/second_pict.jpg",
+                "/assets/images-coffee-shop/kopi_kenangan/ter_pict.jpg"
+            ],
+            "menus": [
+                "/assets/images-coffee-shop/kopi_kenangan/menus/menus_1.jpg"
+            ]
+        },
+        {
+            "name": "Kopi Soe",
+            "lot": -6.37221,
+            "lat": 106.853399,
+            "address": "Jl. Komjen.Pol.M.Jasin No.88-96, Tugu, Kec. Cimanggis, Kota Depok, Jawa Barat",
+            "hour": "Rating: 4.3 out of 5.0",
+            "price": "IDR 15.000 - IDR 28.000",
+            "review": "Ruangannya cukup nyaman dan berAC, sofa yang empuk dan cukup ergonomis. Cukup nyaman untuk dipakai kerja. Disini pun ada Wi-Fi",
+            "images": [
+                "/assets/images-coffee-shop/kopi_soe/main_pict.jpg",
+                "/assets/images-coffee-shop/kopi_soe/second_pict.jpg"
+            ],
+            "menus": [
+                "/assets/images-coffee-shop/kopi_soe/menus/menus_1.jpg"
+            ]
+        },
+        {
+            "name": "Oi Coffee & Eatery",
+            "lot": -6.354247,
+            "lat": 106.83678,
+            "address": "Jl. Akses UI No.6B, Tugu, Kec. Cimanggis, Kota Depok, Jawa Barat",
+            "hour": "Rating: 4.9 out of 5.0",
+            "price": "IDR 22.000 - IDR 58.000",
+            "review": "makanan dan minuman sangat lezat, bersertifikat MUI, nyaman dan suasananya menenangkan",
+            "images": [
+                "/assets/images-coffee-shop/oicoffee_eatery/main_pict.jpg",
+                "/assets/images-coffee-shop/oicoffee_eatery/second_pict.jpg",
+                "/assets/images-coffee-shop/oicoffee_eatery/ter_pict.jpg"
+            ],
+            "menus": [
+                "/assets/images-coffee-shop/oicoffee_eatery/menus/menus_1.jpg",
+                "/assets/images-coffee-shop/oicoffee_eatery/menus/menus_2.jpg"
+            ]
+        },
+        {
+            "name": "Kopi Darsini",
+            "lot": -6.354654,
+            "lat": 106.845288,
+            "address": "Jl. Akses UI No.45, Tugu, Kec. Cimanggis, Kota Depok, Jawa Barat",
+            "hour": "Rating: 4.7 out of 5.0",
+            "price": "IDR 15.000 - IDR 37.000",
+            "review": "Makanan minuman lumayan buat nongkrong bersama. Ada live musicnya di beberapa waktu, sehingga ramai. Tempatnya lumayan aesthetic.",
+            "images": [
+                "/assets/images-coffee-shop/darsini/main_pict.jpg",
+                "/assets/images-coffee-shop/darsini/second_pict.jpg",
+                "/assets/images-coffee-shop/darsini/ter_pict.jpg",
+                "/assets/images-coffee-shop/darsini/oth_pict.jpg"
+            ],
+            "menus": [
+                "/assets/images-coffee-shop/darsini/menus/menus_1.jpg",
+                "/assets/images-coffee-shop/darsini/menus/menus_2.jpg",
+                "/assets/images-coffee-shop/darsini/menus/menus_3.jpg",
+                "/assets/images-coffee-shop/darsini/menus/menus_4.jpg",
+                "/assets/images-coffee-shop/darsini/menus/menus_5.jpg",
+                "/assets/images-coffee-shop/darsini/menus/menus_6.jpg"
+            ]
+        },
+        {
+            "name": "Kamaie Coffee & Eatery",
+            "lot": -6.351493,
+            "lat": 106.842383,
+            "address": "Jl. H. Hambali Sekitaran Gapura Hankam No.1, Pasir Gn. Sel., Kec. Cimanggis, Kota Depok, Jawa Barat",
+            "hour": "Rating: 4.5 out of 5.0",
+            "price": "IDR 20.000 - IDR 28.000",
+            "review": "Tempatnya super nyaman untuk nongkrong atau nugas, vibesnya tuh kaya di rumah apalagi kalau duduk di spot sofa",
+            "images": [
+                "/assets/images-coffee-shop/kamaie/main_pict.jpg",
+                "/assets/images-coffee-shop/kamaie/second_pict.jpg",
+                "/assets/images-coffee-shop/kamaie/ter_pict.jpg",
+                "/assets/images-coffee-shop/kamaie/oth_pict.jpg",
+                "/assets/images-coffee-shop/kamaie/oth2_pict.jpg"
+            ],
+            "menus": [
+                "/assets/images-coffee-shop/kamaie/menus/menus_1.jpg",
+                "/assets/images-coffee-shop/kamaie/menus/menus_2.jpg",
+                "/assets/images-coffee-shop/kamaie/menus/menus_3.jpg"
+            ]
+        },
+        {
+            "name": "Kopi Janji Jiwa",
+            "lot": -6.354228,
+            "lat": 106.836466,
+            "address": "Jl. Akses UI No.8, Tugu, Kec. Cimanggis, Kota Depok, Jawa Barat",
+            "hour": "Rating: 2.8 out of 5.0",
+            "price": "IDR 12.000 - IDR 38.000",
+            "review": "kopi cukup berasa, toastnya juara terutama spicy bulgogi, tempatnya cukup nyaman, ada AC dan luarnya bisa smoking, tapi yg penting bersih, toilet juga rapih",
+            "images": [
+                "/assets/images-coffee-shop/janji_jiwa/main_pict.jpg",
+                "/assets/images-coffee-shop/janji_jiwa/second_pict.jpg",
+                "/assets/images-coffee-shop/janji_jiwa/ter_pict.jpg"
+            ],
+            "menus": [
+                "/assets/images-coffee-shop/janji_jiwa/menus/menus_1.jpg",
+                "/assets/images-coffee-shop/janji_jiwa/menus/menus_2.jpg"
+            ]
+        },
+        {
+            "name": "Kopi Dari Hati & Toast",
+            "lot": -6.364078,
+            "lat": 106.842989,
+            "address": "Jl. Rtm No.6 RT002/011, Tugu, Kec. Cimanggis, Kota Depok, Jawa Barat",
+            "hour": "Rating: 5.0 out of 5.0",
+            "price": "IDR 12.000 - IDR 24.000",
+            "review": "tempat yang bagus untuk nongkrong setelah melakukan zumba. suka banget dengan kopi gula aren, roti panggang, dan soto betawi. stafnya sangat ramah",
+            "images": [
+                "/assets/images-coffee-shop/dari_hati/main_pict.jpg",
+                "/assets/images-coffee-shop/dari_hati/second_pict.jpg",
+                "/assets/images-coffee-shop/dari_hati/ter_pict.jpg"
+            ],
+            "menus": [
+                "/assets/images-coffee-shop/dari_hati/menus/menus_1.jpg",
+                "/assets/images-coffee-shop/dari_hati/menus/menus_2.jpg",
+                "/assets/images-coffee-shop/dari_hati/menus/menus_3.jpg"
+            ]
+        },
+        {
+            "name": "DO Coffee",
+            "lot": -6.370042,
+            "lat": 106.842743,
+            "address": "Jl. Rtm No.17D, Tugu, Kec. Cimanggis, Kota Depok, Jawa Barat",
+            "hour": "Rating: 4.7 out of 5.0",
+            "price": "IDR 5.000 - IDR 25.000",
+            "review": "free wifi, ada smoking area dan yg bebas asap rokok juga dengan fasilitas AC",
+            "images": [
+                "/assets/images-coffee-shop/DO/main_pict.jpg",
+                "/assets/images-coffee-shop/DO/second_pict.jpg"
+            ],
+            "menus": [
+                "/assets/images-coffee-shop/DO/menus/menus_1.jpg",
+                "/assets/images-coffee-shop/DO/menus/menus_2.jpg"
+            ]
+        },
+        {
+            "name": "Haba Kopi",
+            "lot": -6.35558,
+            "lat": 106.853526,
+            "address": "Jl. Akses UI No.2A, Tugu, Kec. Cimanggis, Kota Depok, Jawa Barat",
+            "hour": "Rating: 5.0 out of 5.0",
+            "price": "IDR 5.000 - IDR 26.000",
+            "review": "menawarkan berbagai menu masakan yang enak dan lezat. harganya pun masih bisa dijangkau oleh kantong",
+            "images": [
+                "/assets/images-coffee-shop/haba/main_pict.jpg",
+                "/assets/images-coffee-shop/haba/second_pict.jpg",
+                "/assets/images-coffee-shop/haba/ter_pict.jpg",
+                "/assets/images-coffee-shop/haba/oth_pict.jpg"
+            ],
+            "menus": [
+                "/assets/images-coffee-shop/haba/menus/menus_1.jpg"
+            ]
+        }
+    ]
+}
